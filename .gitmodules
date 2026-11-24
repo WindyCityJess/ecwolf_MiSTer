@@ -1,8 +1,10 @@
+# upstream: https://github.com/ItsDanik/ecwolf
 [submodule "ecwolf"]
 	path = ecwolf
-	url = https://github.com/ItsDanik/ecwolf.git
-	branch = mister
+	url = https://github.com/WindyCityJess/ecwolf.git
+	branch = mister-build
+# upstream: https://github.com/ItsDanik/Hybrid_MiSTer
 [submodule "hybrid"]
 	path = hybrid
-	url = https://github.com/ItsDanik/Hybrid_MiSTer.git
+	url = https://github.com/WindyCityJess/Hybrid_MiSTer.git
 	branch = main
